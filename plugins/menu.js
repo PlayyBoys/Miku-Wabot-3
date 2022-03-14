@@ -5,7 +5,7 @@ let path = require('path')
 let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 let tags = {
-'main': 'Utama',
+    'main': 'Utama',
     'game': 'Game',
     'rpg': 'Rpg',
     'jadian': 'Jadian',
